@@ -8,8 +8,7 @@ Here I am adding my web projects
 | Projects  | Code Link | Live Demo |
 | ------------- | ------------- | ------------- |
 | **Booklist app** | [Code](https://github.com/sohil-sisodiya/booklist-app)  |[Live Demo](https://sohil-sisodiya.github.io/booklist-app/)  |
-| **Color-Flipper** | [Code](https://github.com/sohil-sisodiya/color-flipper)  |[Live Demo](https://sohil-sisodiya.github.io/color-flipper/)  |
-| **color-flipper-2ndE** | [Code](https://github.com/sohil-sisodiya/color-flipper-2ndE)  |[Live Demo](https://sohil-sisodiya.github.io/color-flipper-2ndE/)  |
+| **GrocerEase app** | [Code](https://github.com/sohil-sisodiya/grocerease)  |[Live Demo](https://sohil-sisodiya.github.io/grocerease/)  |
 | **Counter** | [Code](https://github.com/sohil-sisodiya/counter-web)  |[Live Demo](https://sohil-sisodiya.github.io/counter-web/) |
 | **Drum-kit-js** | [Code](https://github.com/sohil-sisodiya/Drum-kit-js)  |[Live Demo](https://sohil-sisodiya.github.io/Drum-kit-js/) |
 | **Countdown-timer** | [Code](https://github.com/sohil-sisodiya/countdown-timer)  |[Live Demo](https://sohil-sisodiya.github.io/countdown-timer/) |
