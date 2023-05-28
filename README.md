@@ -13,6 +13,7 @@ Here I am adding my web projects
 | **Drum-kit-js** | [Code](https://github.com/sohil-sisodiya/Drum-kit-js)  |[Live Demo](https://sohil-sisodiya.github.io/Drum-kit-js/) |
 | **Countdown-timer** | [Code](https://github.com/sohil-sisodiya/countdown-timer)  |[Live Demo](https://sohil-sisodiya.github.io/countdown-timer/) |
 | **flex-panel-gallery {CSS}** | [Code](https://github.com/sohil-sisodiya/flex-panel-gallery)  |[Live Demo](https://sohil-sisodiya.github.io/flex-panel-gallery/) |
+| **Timer and Stopwatch** | [Code](https://github.com/sohil-sisodiya/CodeClause_project_timerandstopwatch)  |[Live Demo](https://sohil-sisodiya.github.io/CodeClause_project_timerandstopwatch/)  |
 | **Unit Converter** | [Code](https://github.com/sohil-sisodiya/CodeClause_project_unitconverter)  |[Live Demo](https://sohil-sisodiya.github.io/CodeClause_project_unitconverter/) |
 
 ## Resources 📖
